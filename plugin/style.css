@@ -1,0 +1,14 @@
+.ctfd-users-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.ctfd-users-table th, .ctfd-users-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.ctfd-users-table th {
+    background-color: #f2f2f2;
+    text-align: left;
+}
